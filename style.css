@@ -57,8 +57,7 @@ nav li a{
     gap:15px;
 }
 .details{
-    /* margin-left: 300px; */
-    /*float:right; */
+   text-decoration:None;
 }
 .name{
     color: white;
